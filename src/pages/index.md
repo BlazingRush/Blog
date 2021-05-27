@@ -5,8 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: Yannick's Blog
-    content: |
-      yannick is een persoon met auntisme die houdt van technologie
+    content: |+
+      Yannick is een persoon met Autisme die van technologie houdt.
+
   - section_id: about
     type: section_content
     title: About
