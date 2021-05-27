@@ -1,7 +1,7 @@
 ---
 title: 'Plot26 School opdracht: BOOS is slecht.'
 excerpt: >-
-  LET OP: dit is een schoolopadracht alles wat hierin beschreven wordt is niet
+  LET OP!: dit is een schoolopdracht! alles wat hierin beschreven wordt is niet
   echt!!!!
 date: '2021-05-27'
 thumb_img_alt: Icelandic horses
