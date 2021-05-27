@@ -1,6 +1,8 @@
 ---
 title: 'Plot26 Schoolopdracht: B.O.O.S is slecht'
-excerpt: 'LET OP: Dit is slechts een schoolopdracht,'
+excerpt: >-
+  LET OP: Dit is slechts een schoolopdracht, dit is niet bedoeld als een bron
+  van informatie
 date: '2021-05-27'
 thumb_img_path: images/plot26.png
 thumb_img_alt: Hikers on the trail
