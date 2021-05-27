@@ -29,5 +29,4 @@ seo:
       relativeUrl: true
 template: page
 ---
-ik ben een jongen van 14 jaar oud met autisme en mijn hobby's zijn computers en technologie. fijn dat je mijn blogsite bezoekt!
-
+Ik ben Yannick, een jongen van 14 jaar oud met autisme. mijn hobby's zijn computers en technologie. fijn dat je mijn blogsite bezoekt!
