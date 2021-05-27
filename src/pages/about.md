@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: Over Mij
 subtitle: >-
   ik ben een jongen van 14 jaar oud met autisme en mijn hobby's zijn computers
   en technologie. fijn dat je mijn blogsite bezoekt!
