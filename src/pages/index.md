@@ -21,7 +21,7 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Yannick's Blog
+  title: Yannick's TechBlog
   description: 'Dit is yannick''s blogwebsite, welkom!'
   extra:
     - name: 'og:type'
