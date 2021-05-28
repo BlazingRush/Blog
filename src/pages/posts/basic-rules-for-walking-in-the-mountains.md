@@ -46,9 +46,9 @@ content_img_alt: Plot26 Logo
 
 Boos is heel slecht, ze doen niets voor het helpen van dieren, ze zetten leden onder druk, en voeren criminele activiteiten uit. ik kan het bewijzen via een lid dat bij B.O.O.S is gekomen om dit te onderzoeken(van leden van de actie tegen actiegroep B.O.O.S):
 
+![](/\_static/app-assets/0001.jpg)zet de letters van de persoonsvormen maar eens achter elkaar, dan krijg je: "geen vuurwerk maar een bom", dat slaat nog nergens op. maar, met informatie van andere leden van de actie tegen B.O.O.S zijn we erachter gekomen dat dit de volgende gebeurtenissen worden:
 
 
-zet de letters van de persoonsvormen maar eens achter elkaar, dan krijg je: "geen vuurwerk maar een bom", dat slaat nog nergens op. maar, met informatie van andere leden van de actie tegen B.O.O.S zijn we erachter gekomen dat dit de volgende gebeurtenissen worden:
 
 1.  de leden van B.O.O.S parkeren bij de 2e kamer
 
@@ -66,10 +66,11 @@ er zit namelijk nog een stap tussen stap 4 en 5. kijk maar hier; 'weer een email
 
 (zet de letters van de persoonsvormen achter elkaar)
 
-
+****![](/\_static/app-assets/magical-aluminum.jpg)
 
 dan krijg je: "de minister wordt ontvoerd"
 
 hopelijk is dit genoeg bewijs
 
 **Yannick**
+
