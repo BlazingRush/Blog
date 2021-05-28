@@ -33,15 +33,6 @@
                 "style": "icon",
                 "icon_class": "github",
                 "new_window": true
-            },
-            {
-                "label": "Reddit",
-                "url": "#",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ]
     },
