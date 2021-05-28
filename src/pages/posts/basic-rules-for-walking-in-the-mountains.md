@@ -40,6 +40,7 @@ seo:
       value: images/6.jpg
       relativeUrl: true
 template: post
+content_img_alt: Plot26 Logo
 ---
 ##### intro
 
