@@ -17,7 +17,7 @@ sections:
     title: RECENTE BLOGPOSTS
     posts_number: 4
     actions:
-      - label: View Blog
+      - label: LAAT BLOG Zien
         url: blog/index.html
         style: button
 seo:
