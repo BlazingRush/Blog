@@ -22,7 +22,7 @@ sections:
         style: button
 seo:
   title: Yannick's Blog
-  description: The preview of the Fresh theme
+  description: 'Dit is yannick''s blogwebsite, welkom!'
   extra:
     - name: 'og:type'
       value: website
