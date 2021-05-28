@@ -7,7 +7,7 @@ sections:
     title: Yannick's Blog
   - section_id: about
     type: section_content
-    title: About
+    title: OVER MIJ IN HET KORT
     content: |+
       Yannick is een persoon met Autisme die van technologie houdt.
 
