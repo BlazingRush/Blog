@@ -7,7 +7,6 @@ date: '2021-05-27'
 thumb_img_path: images/plot26.png
 thumb_img_alt: Hikers on the trail
 content_img_path: images/plot26.png
-content_img_alt: Hikers on the trail
 seo:
   title: Basic Rules For Walking In The Mountains
   description: >-
