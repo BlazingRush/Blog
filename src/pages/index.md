@@ -31,7 +31,7 @@ seo:
       value: Yannick's Blog
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: 'Dit is yannick''s blogwebsite, welkom!'
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/c137c079fd7d4cf0a476f2a7a9bb8e96.png
