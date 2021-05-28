@@ -36,4 +36,8 @@
     "rehype-react": "3.0.2",
     "sprintf-js": "1.1.2"
   }
+{
+  backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
 }
