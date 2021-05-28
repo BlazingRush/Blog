@@ -21,20 +21,20 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Stackbit Fresh Theme
-  description: The preview of the Fresh theme
+  title: Yannick's Blog
+  description: 'Dit is yannick''s blogwebsite, welkom!'
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fresh Theme
+      value: Yannick's Blog
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: 'Dit is yannick''s blogwebsite, welkom!'
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: /_static/app-assets/c137c079fd7d4cf0a476f2a7a9bb8e96.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
